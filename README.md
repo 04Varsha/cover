@@ -31,8 +31,8 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
-book.html
 ~~~
+book.html
 <html>
 <head>
     <title>Book Cover</title>
